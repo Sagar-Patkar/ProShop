@@ -16,7 +16,7 @@ import Message from "../components/Message";
 import {
   listProductDetails,
   createProductReview,
-} from "../actions/productActions.js";
+} from "../actions/productactions.js";
 import { PRODUCT_CREATE_REVIEW_RESET } from "../constants/productConstants.js";
 
 const ProductScreen = ({ history, match }) => {

@@ -8,7 +8,7 @@ import Loader from "../components/Loader.jsx";
 import {
   listProductDetails,
   updateProduct,
-} from "../actions/productActions.js";
+} from "../actions/productactions.js";
 import FormContainer from "../components/FormContainer.jsx";
 import { PRODUCT_UPDATE_RESET } from "../constants/productConstants.js";
 
